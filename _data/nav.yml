@@ -1,2 +1,6 @@
+- name: "Contact"
+  link: "contact"
+
 - name: "Github"
-  link: "https://github.com/elliotforbes/"
+  link: "https://github.com/elliotforbes"
+

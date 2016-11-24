@@ -3,17 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [elliot@elliotforbes.co.uk](mailto:elliot@elliotforbes.co.uk)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> Fingalton Mill
 >
-> London
+> Glagow
 >
 > United Kingdom
 
@@ -21,6 +19,5 @@ is_contact: true
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+2. [Twitter](https://twitter.com/Elliot_F)
+3. [Github](https://github.com/elliotforbes)
